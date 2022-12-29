@@ -5,8 +5,8 @@ Used libraries are :
   numpy
   matplotlib
   seaborn
-  sklearn : model_selection
-            linear_model
-            metrics
+  sklearn : model_selection,
+            linear_model,
+            metrics,
             classification_report
             
